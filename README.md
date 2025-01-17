@@ -1,5 +1,4 @@
-# blockchain-terminlogies
-Blockchain Terminologies: A Comprehensive Guide
+# Blockchain Terminologies: A Comprehensive Guide
 
 # What's Inside?
 Beginner Level: Easy-to-understand terms and core blockchain concepts. <br/>
