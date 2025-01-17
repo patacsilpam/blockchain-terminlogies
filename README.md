@@ -8,7 +8,9 @@ This repository offers a categorized glossary of blockchain terminologies tailor
 # What's Inside?
 Beginner Level: Easy-to-understand terms and core blockchain concepts.
 Intermediate Level: Insights into mechanics, applications, and ecosystem terms.
+
 Expert Level: Advanced technical jargon and cutting-edge blockchain innovations.
+
 #Perfect For:
 Blockchain enthusiasts
 Developers learning blockchain
