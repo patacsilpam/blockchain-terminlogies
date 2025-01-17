@@ -1,5 +1,5 @@
 # Blockchain Terminologies: A Comprehensive Guide
-
+My go-to dictionary for learning and understanding blockchain terminologies! <br/>
 # What's Inside?
 Beginner Level: Easy-to-understand terms and core blockchain concepts. <br/>
 Intermediate Level: Insights into mechanics, applications, and ecosystem terms.  <br/>
